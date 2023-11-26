@@ -26,10 +26,6 @@ body {
 .header {
     height: 300px;
     width: 100vw;
-    background-image: url("img/background.mp4");
-    background-size:cover;
-    background-color: #b8b6b6;
-    background-blend-mode: multiply;
     font-weight: bolder;
 }
 
